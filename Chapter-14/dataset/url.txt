@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/araraltawil/fruit-101-dataset
+https://www.kaggle.com/datasets/olgabelitskaya/flower-color-images
